@@ -20,7 +20,7 @@
   ##
  
 <div> 
-   <a href="https://instagram.com/joaocrf_81" target="_blank"><img src=["https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=black&logoColor=black](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2F566116615660165074%2F&psig=AOvVaw1V5k-8l0G7seLV6KN3_Hy4&ust=1668398721748000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCYstujqvsCFQAAAAAdAAAAABAE)" target="_blank"></a>
+   <a href="https://instagram.com/joaocrf_81" target="_blank"><img src=["https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Black/Instagram_black.svg"] target="_blank"></a>
  	
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
