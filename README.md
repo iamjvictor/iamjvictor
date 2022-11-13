@@ -1,4 +1,4 @@
-<h1 style="font-family: 'Press Start 2P', cursive;"> Olá, sou o João Victor, Desenvolvedor FullStack e um entusiasta da área.</h1>
+<p style="font-family: 'Press Start 2P', cursive;"> Olá, sou o João Victor, Desenvolvedor FullStack e um entusiasta da área.</p>
 <div align="center">
   <a href="https://github.com/iamjvictor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamjvictor&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
