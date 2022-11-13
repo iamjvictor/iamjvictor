@@ -10,9 +10,9 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/nodejs-original.svg'>
+  <img align="center" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg'>
   <img align="center" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg'>
-  <img align="center" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/npm-original.svg'>
+  <img align="center" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg'>
  
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" >
 </div>
