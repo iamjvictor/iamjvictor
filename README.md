@@ -1,4 +1,4 @@
-<h1 font-family: 'Press Start 2P', cursive;> Olá, sou o João Victor, Desenvolvedor FullStack e um entusiasta da área.</h1>
+<h1 style="font-family: 'Press Start 2P', cursive;  color: rgb(50,205,50);> Olá, sou o João Victor, Desenvolvedor FullStack e um entusiasta da área.</h1>
 <div align="center">
   <a href="https://github.com/iamjvictor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamjvictor&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -21,8 +21,6 @@
  
 <div> 
    <a href="https://instagram.com/joaocrf_81" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Black/Instagram_black.svg" target="_blank"></a>
- 	
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:jvictor.asevedo@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Black/Gmail_black.svg" target="_blank"></a>
   <a href="https://www.linkedin.com/in/iamjvictor-45875016a" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Black/LinkedIN_black.svg" target="_blank"></a> 
  
