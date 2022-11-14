@@ -37,8 +37,5 @@ Aboute me
   <a href="https://www.linkedin.com/in/iamjvictor-45875016a" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" target="_blank"></a>  
 
  
- ![snake gif](https://github.com/iamjvictor/iamjvictor/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-
 
