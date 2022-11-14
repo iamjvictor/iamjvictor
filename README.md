@@ -1,5 +1,7 @@
 <h1 style="font-family: 'Press Start 2P', cursive;"> Olá, sou o João Victor, Desenvolvedor FullStack, Mobile e o que você precisar. <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/></h1>
 <br>
+
+<br>
 <div align="center"style="display: inline_block">
   
   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/iamjvictor?cardType=github&theme=shades-of-purple&Background=000000&Text=FFFFFF&Title=FFFFFF&Border=FFFFFF&Ring=FFFFFF)](https://git.io/awesome-stats-card)
@@ -44,7 +46,7 @@ Aboute me
 <div >
   <a href="https://instagram.com/joaocrf_81" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Instagram_white.svg" target="_blank"></a>
   <a href = "mailto:jvictor.asevedo@gmail.com"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Gmail_white.svg" target="_blank"></a> 
-  <a href="https://iamjvictor.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Github_white.svg" target="_blank"></a> 
+  <a href="https://iamjvictor.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/Google_white.svg" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/iamjvictor-45875016a" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg" target="_blank"></a>  
 
  
