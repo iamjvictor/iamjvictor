@@ -1,5 +1,6 @@
 <h1 style="font-family: 'Press Start 2P', cursive;"> Olá, sou o João Victor, Desenvolvedor FullStack, Mobile e o que você precisar. <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/></h1>
-<div style="display: inline_block">
+<br>
+<div align="center"style="display: inline_block">
   
   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/iamjvictor?cardType=github&theme=shades-of-purple&Background=000000&Text=FFFFFF&Title=FFFFFF&Border=FFFFFF&Ring=FFFFFF)](https://git.io/awesome-stats-card)
   
@@ -8,11 +9,12 @@
 <h2>
 Aboute me
 </h2>
-
+<br>
 
 - Cursando ciência da computação - UENF
 - Iniciação cientifica - Desenvolvimento de aplicações para dispositivos móveis
-
+- Idiomas : 🇧🇷 / :us: 
+  
 
 <h2>Tecnologias</h2>
 <div style="display: inline_block"><br>
