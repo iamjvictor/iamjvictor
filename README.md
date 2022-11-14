@@ -11,7 +11,7 @@ Aboute me
 </h2>
 <br>
 
-- Cursando ciência da computação - UENF
+- Ciência da  Computação - UENF
 - Iniciação cientifica - Desenvolvimento de aplicações para dispositivos móveis
 - Idiomas : 🇧🇷 / :us: 
   
