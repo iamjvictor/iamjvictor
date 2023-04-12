@@ -21,7 +21,8 @@ Aboute me
 <h2>Tecnologias</h2>
 <div style="display: inline_block"><br>
   
- 
+  <a href="https://github.com/iamjvictor">  
+  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamjvictor&layout=compact&langs_count=7&theme=midnight-purple"/>
     <br>
     <br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
