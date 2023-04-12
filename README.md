@@ -1,4 +1,4 @@
-<h1 style="font-family: 'Press Start 2P', cursive;"> Olá, sou o João Victor, Desenvolvedor FullStack, Mobile e o que você precisar. <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/></h1>
+<h1 style="font-family: 'Press Start 2P', cursive;"> Desenvolvedor de sistemas <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/></h1>
 <br>
 
 <br>
