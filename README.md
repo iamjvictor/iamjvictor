@@ -1,4 +1,5 @@
-<h1 style="font-family: 'Press Start 2P', cursive;"> Desenvolvedor de sistemas <img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/></h1>
+<h1 style="font-family: 'Press Start 2P', cursive;"> Desenvolvedor<img align="center" alt="GIF" width="30"  src="https://media.giphy.com/media/H6KusZ8pzxtyymblnE/giphy.gif" width="36"/></h1>
+<h3>Software engineer</h3>
 <br>
 
 <br>
